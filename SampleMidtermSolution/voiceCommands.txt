@@ -1,0 +1,8 @@
+collision
+accident
+construction
+turn left
+turn right
+back off
+stop
+nuclear fallout
